@@ -1,6 +1,6 @@
 # Riyadh Metro Integrated System
 
-Web-based metro ticketing system built for the Software Engineering course. Users can pick start and end stations to get an estimated distance and fare, create an account, book tickets (payment simulated), and view their trip history.
+Web-based metro ticketing system built for the Software Engineering course. Users can pick start and end stations to get an estimated distance and fare, create an account, book tickets , and view their trip history.
 
 Built with PHP, HTML, and MySQL. Developed with AI assistance.
 
